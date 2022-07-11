@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! 👋 I'm Farras.
 
-<!--
-**FARRAS-DARKUNO/FARRAS-DARKUNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from ITERA. i have talent and interest in technology, especially in the field of mobile application development and web development. i have a high sense of responsibility and enthusiasm for learning.
 
-Here are some ideas to get you started:
+### Tech Stack
+  <a href="https://flutter.dev/?gclid=Cj0KCQjw8amWBhCYARIsADqZJoVmf2M78nV1u8niKo-AiAH9UV0IzXmhxYXe5fs_NhoWvkYFOpaMPLkaAm8GEALw_wcB&gclsrc=aw.ds"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/FARRAS-DARKUNO">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FARRAS-DARKUNO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FARRAS-DARKUNO&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me on
+- <a href="https://www.linkedin.com/in/abdurrachman-farras-8a8a08222/">LinkedIn</a>
+- abdurrachman.farras2@gmail.com
