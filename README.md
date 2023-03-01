@@ -20,4 +20,4 @@ I'm a student from ITERA. i have talent and interest in technology, especially i
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/abdurrachman-farras-8a8a08222/">LinkedIn</a>
-- abdurrachman.farras2@gmail.com
+- abdurrachman.farras7@gmail.com
